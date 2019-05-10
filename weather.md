@@ -1,1 +1,0 @@
-The weather in the Bay Area is *sunny*
