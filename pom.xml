@@ -4,7 +4,7 @@
    <groupId>nick1</groupId>
    <artifactId>nick1</artifactId>  
    <version>0.1.0-SNAPSHOT</version>      
-   <packaging>jar</packaging>   
+   <packaging>jar</packaging>    
    <name>nick1</name> 
    <description>nick1</description>  
    <parent>
